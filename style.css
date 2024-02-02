@@ -205,6 +205,10 @@ img{
     border-radius: 20px;
 }
 #img-4{
+    transform: translate(-50%, -50%) rotate(-45deg);
+    border-radius: 20px;
+}
+#img-5{
     transform: translate(-50%, -50%);
     border-radius: 20px;
 }  
